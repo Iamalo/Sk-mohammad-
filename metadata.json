@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of FlipGem AI - PDF to Flipbook Converter",
+  "description": "A sophisticated PDF-to-Flipbook converter that uses Gemini AI to enhance your documents with smart summaries and theme generation, providing a rich, interactive reading experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
